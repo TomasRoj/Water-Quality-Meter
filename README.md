@@ -1,7 +1,7 @@
 # Water-Quality-Meter
 Simple project about conductivity of water.
 
-This project is pretty easy and you can customize how you want. For my code iÍ used NUKLEO-F030R8 board which is around 100x more executive than normal arduino uno board. These steps will you help to make project happen:
+This project is pretty easy and you can customize how you want. For my code iÍ used NUKLEO-F030R8 board which is around 100x more executive than normal arduino uno board. These steps will you help to make project happen on Nukelo boards. For using on arduino uno or another arduino board use .ino code in this project, no more steps needed.
 
 1. First of all go to www.mbed.com and create your accont. Mbed is online compiler for your Iot projects. In this case we will code in C++ but you can code in C also. 
 
